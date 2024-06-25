@@ -36,6 +36,7 @@
     ]
   },
   "devDependencies": {
+    "netlify-cli": "^17.29.0",
     "workbox-webpack-plugin": "^7.1.0"
   }
 }
